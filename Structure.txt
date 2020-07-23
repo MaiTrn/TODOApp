@@ -1,0 +1,12 @@
+Structure of the program
+
+				 Set timer
+****************************************************
+*					Timer						   *
+*	Pause/resum button		 Done button		   *
+****************************************************
+
+------------------Todo-----------------------------
+	Todo Text							Add Todos
+	
+Mark as done(thru done btn) Todo 		Delete Do this todo
